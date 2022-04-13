@@ -1,0 +1,27 @@
+originalName {
+    font-weight: bold;
+    font-size: 10pt;
+    font-style: italic;   
+    color: brown;
+}
+
+category {
+ display: block;
+}
+
+summary, effectiveDate {
+    display: block;
+    padding: 12px;
+}
+
+menuItem {
+    display: block;
+    padding: 12px;
+}
+
+description {
+    display: block;
+}
+menuInfo{
+    background-color: cyan;
+}
