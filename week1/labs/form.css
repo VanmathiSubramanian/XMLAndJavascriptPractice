@@ -1,0 +1,17 @@
+form{
+    border: solid black 2px;
+    background-color: bisque;
+    border-radius: 1px;
+    margin: 5px;
+    padding:3px;
+    width:fit-content;
+}
+
+.form-input {
+    margin-bottom: 10px; 
+}
+
+.submit-button{
+    margin-bottom: 13px;
+    background-color: red;
+}
